@@ -78,7 +78,7 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description: "A full-featured e-commerce platform with product listings, cart functionality, and secure checkout.",
       technologies: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
-      image: "https://via.placeholder.com/600x400?text=E-Commerce+Project",
+      image: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?q=80&w=2070&auto=format&fit=crop",
       link: "https://example.com/project1",
       github: "https://github.com/yourusername/project1",
       delay: 100
@@ -87,7 +87,7 @@ const Projects = () => {
       title: "Task Management App",
       description: "A productivity app that helps users organize tasks, set priorities, and track progress.",
       technologies: ["React", "Redux", "Firebase", "Tailwind CSS"],
-      image: "https://via.placeholder.com/600x400?text=Task+Management+App",
+      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2072&auto=format&fit=crop",
       link: "https://example.com/project2",
       github: "https://github.com/yourusername/project2",
       delay: 200
@@ -96,7 +96,7 @@ const Projects = () => {
       title: "Weather Dashboard",
       description: "A weather application that provides real-time weather data and forecasts for locations worldwide.",
       technologies: ["JavaScript", "HTML", "CSS", "Weather API"],
-      image: "https://via.placeholder.com/600x400?text=Weather+Dashboard",
+      image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=2070&auto=format&fit=crop",
       link: "https://example.com/project3",
       github: "https://github.com/yourusername/project3",
       delay: 300
@@ -105,7 +105,7 @@ const Projects = () => {
       title: "Portfolio Website",
       description: "A personal portfolio website showcasing projects and skills with a modern design.",
       technologies: ["React", "Tailwind CSS", "Vite"],
-      image: "https://via.placeholder.com/600x400?text=Portfolio+Website",
+      image: "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=2064&auto=format&fit=crop",
       link: "https://example.com/project4",
       github: "https://github.com/yourusername/project4",
       delay: 400
@@ -114,7 +114,7 @@ const Projects = () => {
       title: "Blog Platform",
       description: "A content management system for creating and managing blog posts with user authentication.",
       technologies: ["React", "Node.js", "Express", "MongoDB"],
-      image: "https://via.placeholder.com/600x400?text=Blog+Platform",
+      image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop",
       link: "https://example.com/project5",
       github: "https://github.com/yourusername/project5",
       delay: 500
@@ -123,7 +123,7 @@ const Projects = () => {
       title: "Recipe Finder",
       description: "An application that allows users to search for recipes based on ingredients they have.",
       technologies: ["React", "API Integration", "CSS"],
-      image: "https://via.placeholder.com/600x400?text=Recipe+Finder",
+      image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=2070&auto=format&fit=crop",
       link: "https://example.com/project6",
       github: "https://github.com/yourusername/project6",
       delay: 600
@@ -147,7 +147,7 @@ const Projects = () => {
         
         <div className="text-center mt-12">
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/Bipin-8" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-md bg-transparent border border-white text-white font-medium hover:border-primary hover:text-primary transition-colors inline-block"
@@ -161,4 +161,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
